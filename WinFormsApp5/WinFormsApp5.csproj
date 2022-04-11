@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <AssemblyName>Acclaimed64</AssemblyName>
+    <RootNamespace>Acclaimed64</RootNamespace>
+    <ApplicationIcon>N64.ICO</ApplicationIcon>
+  </PropertyGroup>
+
+</Project>
